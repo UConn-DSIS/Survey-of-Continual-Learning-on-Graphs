@@ -19,10 +19,10 @@ If you find this repository useful, please consider citing this list:
 
 ```
 @misc{zhang2023cgl,
-    title = {Continual Graph Learning Repository},
+    title = {Survey of Continual Learning on Graphs},
     author = {Zhang, Xikun},
     journal = {GitHub repository},
-    url = {https://github.com/imZHANGxikun/Continual_Graph_Learning_Repository},
+    url = {https://github.com/UConn-DSIS/Survey-of-Continual-Learning-on-Graphs/blob/main/README.md},
     year = {2023},
 }
 ```
