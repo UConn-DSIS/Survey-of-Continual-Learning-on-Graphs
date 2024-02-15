@@ -7,6 +7,12 @@ If you find some ignored papers, **feel free to *create pull requests*, *open is
 
 Please consider [citing](#citation) our survey paper if you find it helpful :), and feel free to share this repository with others! 
 
+## Citation
+
+```
+
+```
+
 ## Motivation and Contribution
 
 Continual learning on graph data has recently garnered significant attention for its aim to resolve the catastrophic forgetting problem on existing tasks while adapting the existing model to newly emerged graph tasks. While there have been efforts to summarize progress on continual learning research over Euclidean data, such as images and texts, a systematic review of continual graph learning (CGL) works is still absent. Graph data are far more complex in terms of data structures and application scenarios, making CGL task settings, model designs, and applications extremely complicated.
@@ -16,16 +22,14 @@ To address this gap, we provide a comprehensive review of existing CGL works by:
 3) Reviewing the benchmark works that are crucial to CGL research. 
 4) Discussing the remaining challenges and propose several future directions.
 
-## [Content](#content)
+<br/>
 
-<table>
-  <tr><td colspan="4"> <a href="#Continual-Graph-Learning-Tutorials">Continual Graph Learning Tutorials</a></td></tr>
-  <tr><td colspan="4"> <a href="#Continual-Graph-Learning-Benchmarks">Continual Graph Learning Benchmarks</a></td></tr>
-  <tr><td colspan="4"> <a href="#Continual-Graph-Learning-Works">Continual Graph Learning Works</a></td></tr>
-  <tr><td colspan="4"> <a href="#Continual-Graph-Learning-Surveys">Continual Graph Learning Surveys</a></td></tr>
-  <tr><td colspan="4"> <a href="#Continual-Graph-Learning-Code-Repositories">Continual Graph Learning Code Repositories</a></td></tr>
-  
-</table>
+|[<img src="timeline.jpg" width="900"/>](image.jpg) |
+|:--:|
+| *Figure 1: Timeline of the Works Introduced in Our Survey* |
+
+<br/>
+
 
   
 ## Continual Graph Learning Tutorials
@@ -60,7 +64,7 @@ To address this gap, we provide a comprehensive review of existing CGL works by:
    
 ### Memory-replay based
 
-3. **Overcoming Catastrophic Forgetting in Graph Neural Networks with Experience Replay** [arxiv link](https://arxiv.org/pdf/2003.09908.pdf) [AAAI link](https://ojs.aaai.org/index.php/AAAI/article/view/16602/16409)
+1. **Overcoming Catastrophic Forgetting in Graph Neural Networks with Experience Replay** [arxiv link](https://arxiv.org/pdf/2003.09908.pdf) [AAAI link](https://ojs.aaai.org/index.php/AAAI/article/view/16602/16409)
 
 3. **Ricci Curvature-Based Graph Sparsification for Continual Graph Representation Learning** [IEEE TNNLS early access](https://ieeexplore.ieee.org/abstract/document/10225445)
 
@@ -84,7 +88,7 @@ To address this gap, we provide a comprehensive review of existing CGL works by:
 
 ### Miscellaneous
 
-12. **Multimodal Continual Graph Learning with Neural Architecture Search** [pdf](https://mn.cs.tsinghua.edu.cn/xinwang/PDF/papers/2022_Multimodal%20Continual%20Graph%20Learning%20with%20Neural%20Architecture%20Search.pdf) [ACM WWW](https://dl.acm.org/doi/10.1145/3485447.3512176)
+1. **Multimodal Continual Graph Learning with Neural Architecture Search** [pdf](https://mn.cs.tsinghua.edu.cn/xinwang/PDF/papers/2022_Multimodal%20Continual%20Graph%20Learning%20with%20Neural%20Architecture%20Search.pdf) [ACM WWW](https://dl.acm.org/doi/10.1145/3485447.3512176)
 
 5. **DyGRAIN: An Incremental Learning Framework for Dynamic Graphs** [pdf](https://www.ijcai.org/proceedings/2022/0438.pdf)
 
@@ -98,8 +102,4 @@ To address this gap, we provide a comprehensive review of existing CGL works by:
 
 3. **Graph Neural Networks with Continual Learning for Fake News Detection from Social Media** [paper](https://arxiv.org/pdf/2007.03316.pdf)
    Combined GCN with existing continual learning techniques like some regularizations
-
-## Continual Graph Learning Surveys
-
-## Continual Graph Learning Code Repositories
 
