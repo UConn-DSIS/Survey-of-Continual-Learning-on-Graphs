@@ -7,6 +7,14 @@ If you find some ignored papers, **feel free to *create pull requests*, *open is
 
 Please consider [citing](#citation) our survey paper if you find it helpful :), and feel free to share this repository with others! 
 
+## Motivation and Contribution
+
+Continual learning on graph data has recently garnered significant attention for its aim to resolve the catastrophic forgetting problem on existing tasks while adapting the existing model to newly emerged graph tasks. While there have been efforts to summarize progress on continual learning research over Euclidean data, such as images and texts, a systematic review of continual graph learning (CGL) works is still absent. Graph data are far more complex in terms of data structures and application scenarios, making CGL task settings, model designs, and applications extremely complicated.
+
+To address this gap, we provide a comprehensive review of existing CGL works by:
+1) Elucidating the different task settings and categorizing the existing works based on their adopted techniques. 
+3) Reviewing the benchmark works that are crucial to CGL research. 
+4) Discussing the remaining challenges and propose several future directions.
 
 ## [Content](#content)
 
