@@ -1,6 +1,12 @@
 # Survey-of-Continual-Learning-on-Graphs
 Official website for "Continual Learning on Graphs: Challenges, Solutions, and Opportunities"
 
+This repository is activately maintained by [*Xikun ZHANG*](https://github.com/imZHANGxikun) from ***The University of Sydney***. As this research topic has recently gained significant popularity, with new articles emerging daily, we will update our repository and survey regularly.
+
+If you find some ignored papers, **feel free to *create pull requests*, *open issues*, or *email* [*Xikun ZHANG*](xzha0505@uni.sydney.edu.au). <br/> 
+
+Please consider [citing](#citation) our survey paper if you find it helpful :), and feel free to share this repository with others! 
+
 
 ## [Content](#content)
 
@@ -13,19 +19,6 @@ Official website for "Continual Learning on Graphs: Challenges, Solutions, and O
   
 </table>
 
-## [Citation]()
-
-If you find this repository useful, please consider citing this list:
-
-```
-@misc{zhang2023cgl,
-    title = {Survey of Continual Learning on Graphs},
-    author = {Zhang, Xikun},
-    journal = {GitHub repository},
-    url = {https://github.com/UConn-DSIS/Survey-of-Continual-Learning-on-Graphs/blob/main/README.md},
-    year = {2023},
-}
-```
   
 ## Continual Graph Learning Tutorials
 1. **Continual Graph Learning (SDM2023)** [link](https://www.siam.org/conferences/cm/program/minitutorials/sdm23-minitutorials) [project page](https://queuq.github.io/CGL_tut/)
