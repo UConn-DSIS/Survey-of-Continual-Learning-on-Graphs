@@ -3,7 +3,7 @@ Official website for "Continual Learning on Graphs: Challenges, Solutions, and O
 
 This repository is activately maintained by [*Xikun ZHANG*](https://github.com/imZHANGxikun) from ***The University of Sydney***. As this research topic has recently gained significant popularity, with new articles emerging daily, we will update our repository and survey regularly.
 
-If you find some ignored papers, **feel free to *create pull requests*, *open issues*, or *email* [*Xikun ZHANG*](xzha0505@uni.sydney.edu.au). <br/> 
+If you find some ignored papers, **feel free to *create pull requests*, *open issues*, or *email* [*Xikun ZHANG*](xzha0505@uni.sydney.edu.au)**. <br/> 
 
 Please consider [citing](#citation) our survey paper if you find it helpful :), and feel free to share this repository with others! 
 
