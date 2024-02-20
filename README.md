@@ -10,7 +10,10 @@ Please consider [citing](#citation) our survey paper if you find it helpful :), 
 ## Citation
 
 ```
-
+@article{zhang2024continual,
+title={Continual Learning on Graphs: Challenges, Solutions, and Opportunities},
+author={Zhang, Xikun and Song, Dongjin and Tao, Dacheng},
+journal={arXiv preprint arXiv:2402.11565},  year={2024}}
 ```
 
 ## Motivation and Contribution
