@@ -110,7 +110,7 @@ To address this gap, we provide a comprehensive review of existing CGL works by:
 4. **Universal Graph Continual Learning** [TMLR](https://openreview.net/forum?id=wzRE5kTnl3)
 
 #### Table 1: Summarization of different CGL techniques
-<sub>The data type **TS** denotes general time series, **ST** denotes spatial-temporal time series, the prefix **M-** indicates multi-modal inputs. ***Q*** denotes direct query the whole LLMs for output, ***T*** denotes the design of time series tokenization, ***P*** indicates the design of textual or parameterized time series prompts, ***FT*** indicates if the parameters of LLMs are updated (fine-tuned), ***I*** indicates if LLMs are integrated as part of the final model for downstream tasks. *Code availability is assessed on January 31st, 2024.* </sub> 
+ 
 | <sub>**Method**</sub> | <sub> Applications </sub> | <sub>Task Granularity</sub> | <sub>Technique</sub> | <sub>Characteristics</sub> | 
 |:--------:|:-----:|:--------:|:------:|:-------:|
 | <sub>[TWP](https://arxiv.org/abs/2401.13200)</sub> | <sub>General</sub> | <sub>Node/Graph</sub> | <sub>Reg.</sub> | <sub> Preserve the topology learnt from previous tasks |
